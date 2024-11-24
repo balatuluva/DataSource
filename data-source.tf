@@ -1,4 +1,4 @@
-data "aws_vpc" "terraform-aws-testing " {
+data "aws_vpc" "terraform-aws-testing" {
   id = "vpc-019402e1c091ac906"
 }
 
